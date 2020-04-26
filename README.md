@@ -12,13 +12,12 @@ My Personal Website
 
 ### My Personal Website
 Helpers:
-- [@harryioss](https://twitter.com/harryioss)
-- [@pixeljellyfish](https://twitter.com/pixeljellyfish)<br/>
+[harryioss](https://twitter.com/harryioss)<br/>
 
 ### Twitter
-[@Cryptic](https://twitter.com/cr4ptic) <br/>
+[Cryptic](https://twitter.com/cr4ptic)<br/>
 
 ### Discord Server
-[Discord Server](https://discord.gg/k9VrUGf) <br/>
+[Discord Server](https://discord.gg/vG23fCF)<br/>
 
 
