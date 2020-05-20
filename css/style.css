@@ -4,10 +4,7 @@ body {
 }
 
 h1,
-h2 {
-  color: #006ac0d3;
-  font-size: 45px
-}
+h2,
 h3,
 h4,
 h5,
@@ -72,12 +69,6 @@ a.twitter:hover {
 
 .closebtn:hover {
   color: black;
-}
-
-.alert2 {
-  padding: 20px;
-  background-color: green;
-  color: white;
 }
 
 .closebtn {
