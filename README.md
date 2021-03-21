@@ -3,7 +3,7 @@
 # Cryptic
 
 ``` 
-My Personal Website
+THIS SITE IS DEPRECIATED AND NO LONGER MAINTAINED
 ```
 
 </div>
